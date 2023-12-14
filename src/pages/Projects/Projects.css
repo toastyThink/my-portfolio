@@ -1,0 +1,291 @@
+
+div{
+    font-family: "Inter-Bold", Helvetica;
+    color: #ffffff;
+}
+
+div img{
+    width:20%;
+
+}
+
+.desktopP {
+background-color: #1f1f1f; 
+height: 1vh;
+position: relative; 
+width: 1440px;
+}
+
+.desktopP .frameP { 
+height: 1628px; 
+left: 128px;
+position: absolute;
+top: 0;
+width: 1160px;
+}
+
+
+.desktopP .overlap-group-wrapperP { 
+background-color: #292929; 
+border-radius: 20px;
+box-shadow: 0px 4px 8.4px #00000094; 
+height: 404px;
+left: 198px; 
+overflow: hidden;
+position: absolute; 
+top: 1127px;
+width: 764px;
+}
+
+.desktopP .overlap-groupP {
+height: 404px;
+left: 392px;
+position: relative;
+width: 372px;
+}
+
+
+.desktopP .text-wrapperP { 
+color: #ffffff;
+font-family: "Inter-Bold", Helvetica;
+font-size: 22px;
+font-weight: 700; 
+left: 22px; 
+letter-spacing: 0; 
+line-height: normal;
+position: absolute; 
+top: 61px;
+width: 328px;
+}
+
+.desktopP .frame-wrapperP {
+height: 404px;
+left: 0;
+position: absolute;
+top: 0;
+width: 372px;
+}
+
+
+.desktopP .div-wrapperP { 
+background-color: #4a50cd; 
+border-radius: 20px;
+box-shadow: 0px 4px 8.4px #00000094; 
+height: 62px;
+left: 65px;
+overflow: hidden; 
+position: relative; 
+top: 262px;
+width: 241px;
+}
+
+.desktopP .divP {
+color: #ffffff;
+font-family: "Inter-Bold", Helvetica;
+font-size: 30px;
+font-weight: 700; 
+left: 49px; 
+letter-spacing: 0; 
+line-height: normal; 
+position: absolute; 
+top: 12px;
+width: 143px;
+}
+
+
+.desktopP .overlap-wrapperP { 
+background-color: #292929; 
+border-radius: 20px;
+box-shadow: 0px 4px 8.4px #00000094; 
+height: 404px;
+left: 198px; 
+overflow: hidden; 
+position: absolute; 
+top: 671px;
+width: 764px;
+}
+
+.desktopP .frame-2P {
+height: 215px; 
+left: 0;
+position: absolute; 
+top: 0;
+width: 1160px;
+}
+
+
+.desktopP .frame-3P { 
+border-radius: 20px;
+box-shadow: 0px 4px 8.4px #00000094; 
+height: 219px;
+left: 319px; 
+overflow: hidden;
+position: relative; 
+top: -4px;
+width: 522px;
+}
+
+.desktopP .pP {
+color: #ffffff;
+font-family: "Inter-Regular", Helvetica;
+font-size: 20px;
+font-weight: 400; 
+left: 86px;
+letter-spacing: 0; 
+line-height: normal; 
+position: absolute; 
+top: 115px;
+width: 349px;
+}
+
+
+.desktopP .text-wrapper-2P { 
+color: #ffffff;
+font-family: "Inter-Bold", Helvetica;
+font-size: 48px;
+font-weight: 700; 
+left: 86px; 
+letter-spacing: 0; 
+line-height: normal; 
+position: absolute; 
+top: 55px;
+width: 349px;
+}
+
+.desktopP .frame-4P {
+background-color: #292929;
+border-radius: 20px;
+box-shadow: 0px 4px 8.4px #00000094; 
+height: 404px;
+left: 198px; 
+overflow: hidden; 
+position: absolute; 
+top: 215px; 
+width: 764px;
+}
+
+
+.desktopP .frame-5P { 
+background-color: #292929; 
+height: 552px;
+left: 0;
+position: absolute;
+top: 1628px;
+width: 1440px;
+}
+
+.desktopP .frame-6P {
+border-radius: 20px;
+box-shadow: 0px 4px 8.4px #00000094; 
+height: 334px;
+left: 459px; 
+overflow: hidden; 
+position: relative; 
+top: 44px;
+width: 522px;
+}
+
+
+.desktopP .text-wrapper-3P { 
+color: #ffffff;
+font-family: "Inter-Regular", Helvetica; 
+font-size: 20px;
+font-weight: 400; 
+left: 48px; 
+letter-spacing: 0; 
+line-height: normal;
+position: absolute;
+top: 95px;
+width: 425px;
+}
+.desktopP .text-wrapper-4P{
+color: #ffffff;
+font-family: "Inter-Bold", Helvetica; 
+font-size: 48px; 
+font-weight: 700; 
+left: 142px; 
+letter-spacing: 0; 
+line-height: normal; 
+position: absolute; 
+top: 29px;
+width: 191px; 
+}
+
+
+.desktopP .lineP { 
+height: 2px; 
+left: 0;
+position: absolute; 
+top: 200px; 
+width: 522px;
+}
+
+.desktopP .github-mark-whiteP { 
+height: 78px; 
+left: 338px; 
+position: absolute; 
+top: 222px; 
+width: 80px;
+}
+
+.desktopP .noun-emailP {
+height: 113px; 
+left: 210px;
+overflow: hidden; 
+position: absolute;
+top: 221px; 
+width: 90px;
+}
+
+
+.desktopP .layerP { 
+height: 56px; 
+left: 6px;
+position: absolute;
+top: 17px;
+width: 79px;
+}
+
+.desktopP .overlap-group-2P {
+height: 31px;
+left: 0;
+position: absolute;
+top: 118px;
+width: 149px;
+}
+
+
+.desktopP .text-wrapper-5P { 
+color: #000000;
+font-family: "Helvetica Neue-Bold", Helvetica; 
+font-size: 5px;
+font-weight: 700;
+left: 0;
+letter-spacing: 0;
+line-height: normal;
+position: absolute;
+top: 0;
+width: 146px;
+}
+
+.desktopP .text-wrapper-6P {
+color: #000000;
+font-family: "Helvetica Neue-Bold", Helvetica;
+font-size: 5px;
+font-weight: 700;
+left: 0;
+letter-spacing: 0; 
+line-height: normal; 
+position: absolute; 
+top: 14px;
+width: 149px;
+}
+
+
+.desktopP .iconmonstr-linkedinP { 
+height: 69px; 
+left: 103px;
+position: absolute;
+top: 231px;
+width: 69px;
+}
