@@ -1,4 +1,4 @@
-# portfoliog
+# portfolio
 
 Hey There! 
 
