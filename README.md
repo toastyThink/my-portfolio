@@ -19,6 +19,8 @@ A link to your deployed application:
 
 My portfolio site: https://splendorous-lebkuchen-cd46ac.netlify.app
 
+My Figma Design for the site: https://www.figma.com/file/215yxg1YJkQROMTNYhFlgA/Personal-Portfolio-Site?type=design&node-id=0%3A1&mode=design&t=EPJiSVd9cr1Epydz-1
+
 Developing Feelings: https://developing-feelings-d5735203c312.herokuapp.com/
 
 Virtual Slot Machine: https://toastythink.github.io/Virtual-Slot-Machine/
