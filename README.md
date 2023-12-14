@@ -1,7 +1,4 @@
-# portfolio
-
-
-A brief summary of who you are: 
+# portfoliog
 
 Hey There! 
 
