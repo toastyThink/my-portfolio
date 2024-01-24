@@ -75,7 +75,6 @@ function Header({about, skills, projects, contact}){
                         </Link>
                     ))} 
                         
-
                     </div>
                   </div>
                 </div>

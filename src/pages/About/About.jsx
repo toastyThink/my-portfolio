@@ -2,11 +2,8 @@
 import './About.css'
 import { forwardRef } from 'react';
 
-
-
-const About = forwardRef( function About(props,ref){
-
-    return (
+const About = forwardRef( function About(props, ref){
+return (
         <div className="desktopA" ref={ref}> 
             <div className="frameA">
                 <div className="divA">
