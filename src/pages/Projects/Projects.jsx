@@ -36,12 +36,6 @@ const Projects = forwardRef(function Projects(props, ref){
                           <hr style={{width:'30%'}}/> 
                           {loaded()} 
                           <hr style={{width:'30%'}}/>
-                          <div style={{margin: '30px'}}>
-                            <h1 ref={ref}>Contact</h1>
-                            <a style={{margin: '30px', fontSize: "30px"}} href="https://www.linkedin.com/in/brendanshaeffer/">LinkedIn</a>
-                            <a style={{margin: '30px', fontSize: "30px"}} href="https://github.com/toastyThink">Github</a>
-                            <a style={{margin: '30px', fontSize: "30px"}} href="mailto:shaefferbrendan@gmail.com">Email</a>
-                          </div>
                       </div>  
                       : <h1>Projects Page is Loading...</h1>
         

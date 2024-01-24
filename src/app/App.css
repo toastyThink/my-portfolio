@@ -9,7 +9,7 @@
 .desktop {
 background-color: #292929; 
 height: 1024px; 
-width: 100%;
+width: 100vw;
 display: flex;
 flex-direction: row;
 justify-content: center;

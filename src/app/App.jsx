@@ -8,7 +8,8 @@ import Header from "../componenets/Header"
 import About from "../pages/About/About.jsx"
 import Skills from "../pages/Skills/Skills.jsx"
 import Projects from "../pages/Projects/Projects.jsx"
-import { useRef} from 'react'
+import Contact from "../pages/Contact/Contact.jsx"
+import { useRef } from 'react'
 
 //import css
 import './App.css'
@@ -41,6 +42,7 @@ function App() {
       <About ref={aboutRef}/>
       <Skills ref={skillsRef}/>
       <Projects ref={projectsRef}/>
+      <Contact ref={contactRef} />
       {/* <Routes> */}
         {/* <Route exact path="/about" element={<About />} /> */}
         {/* <Route exact path="/skills" element={<Skills />} /> */}

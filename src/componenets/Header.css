@@ -1,8 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 .nav-bar {
     background-color: #1f1f1f;
     height: 84px;
     width: 100%;
-    
+    font-size: 20px;
 }
 
 .nav-bar .flex-box{
@@ -19,9 +22,6 @@
 .nav-bar .navbar{
     height: 48px;
     position: relative;
-    /* right: 3rem; */
-    /* left: 952px; */
-    /* position: inline; */
     top:4px;
     width: 500px;
     
@@ -29,7 +29,7 @@
 
 .nav-bar .text-wrapper { 
     color: #ffffff;
-    font-family: "Inter-Regular", Helvetica; font-size: 20px;
+    font-family: "Inter-Regular", Helvetica; 
     font-weight: 400; 
     left: 8px; 
     letter-spacing: 0; 
@@ -41,53 +41,47 @@
     }
 
 
-.nav-bar .div {
+.nav-bar .text-wrapper-2 {
     color: #ffffff;
-    font-family: "Inter-Regular", Helvetica; font-size: 20px;
+    font-family: "Inter-Regular", Helvetica; 
     font-weight: 400; left: 128px;
     letter-spacing: 0;
-    line-height:
-    normal;
+    line-height:normal;
     position: absolute;
     top: 7px;
     white-space: nowrap;
     width: 60px;
     }
 
-
-.nav-bar .text-wrapper-3 { 
-    color: #ffffff;
-    font-family: "Inter-Regular", Helvetica; font-size: 20px;
-    font-weight: 400; left: 368px;
-    letter-spacing: 0;
-    line-height:
-    normal;
-    position: absolute;
-    top: 7px;
-    white-space: nowrap; width: 80px;
-    }
-
-
-.nav-bar .text-wrapper-2 {
+.nav-bar .text-wrapper-3 {
     color: #ffffff;
     font-family: "Inter-Regular", Helvetica; 
-    font-size: 20px;
     font-weight: 400; 
     left: 248px; 
     letter-spacing: 0; 
-    line-height:
-    normal;
+    line-height:normal;
     position: absolute;
     top: 7px;
     white-space: nowrap; 
     width: 80px;
     }
 
+    .nav-bar .text-wrapper-4 { 
+        color: #ffffff;
+        font-family: "Inter-Regular", Helvetica; 
+        font-weight: 400; left: 368px;
+        letter-spacing: 0;
+        line-height:normal;
+        position: absolute;
+        top: 7px;
+        white-space: nowrap; width: 80px;
+        }
+    
 
-.nav-bar .text-wrapper-4 { 
+
+.nav-bar .text-wrapper-5 { 
     color: #ffffff;
     font-family: "Inter-Regular", Helvetica; 
-    font-size: 20px;
     font-weight: 400; 
     left: 20px;
     letter-spacing: 0; 
@@ -96,3 +90,18 @@
     top: 11px;
     white-space: nowrap;
     }
+
+    @media only screen and (max-width: 690px) {
+      .nav-bar{
+        font-size: 15px;
+      }
+
+    }
+
+
+    @media only screen and (max-width: 640px) {
+        .nav-bar{
+          font-size: 12px;
+        }
+  
+      }
