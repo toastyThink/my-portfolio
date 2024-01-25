@@ -18,7 +18,7 @@ const links = [
 const About = forwardRef( function About(props, ref){
 return (
 
-    <div className="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
+    <div ref={ref} className="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
     {/* <img
       src="https://imgur.com/ZH6zUaE"
       alt=""
