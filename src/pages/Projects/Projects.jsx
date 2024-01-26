@@ -49,7 +49,7 @@ const Projects = forwardRef(function Projects(props, ref){
     return (
         projects ? 
         <>
-        <h1 ref={ref} style={{margin: "50px"}} style={{backgroundColor: "white", color: "Black", fontWeight: "bold"}}>My Projects</h1> 
+        <h1 ref={ref} style={{margin: "50px", backgroundColor: "white", color: "Black", fontWeight: "bold"}}>My Projects</h1> 
             <div className="bg-white min-h-36 py-12 flex items-center justify-center">
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6">
                 
