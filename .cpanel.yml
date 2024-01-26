@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/brenodpe/repositories/main
+    - bin/cp index.html $DEPLOYPATH
