@@ -5,7 +5,7 @@
       "git": "http://www.github.com/username/reponame",
       "image": "https://i.imgur.com/htxsZPH.jpg",
       "description": "A website perfect for those looking to make friends, or build connections!",
-      "id": 0
+      "id": 1
 
     },
     {
@@ -14,7 +14,7 @@
       "git": "https://github.com/toastyThink/dog_park_finder",
       "image": "https://i.imgur.com/r2Ew1H8.png",
       "description": "A site for finding the closest dog parks within a given latitude or longitude",
-      "id": 1
+      "id": 23
     }
   ]
   

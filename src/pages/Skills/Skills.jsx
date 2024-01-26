@@ -15,7 +15,7 @@ const posts = [
           },
     },
     {
-        id: 1,
+        id: 2,
         title: 'Back End Technologies + Skills',
         description:
           'NodeJS + Express ✧ PostgreSQL ✧ SQL + MongoDB ✧ Django + AJAX ✧ RESTful Programming',
@@ -29,7 +29,7 @@ const posts = [
         },
       },
       {
-        id: 1,
+        id: 3,
         title: 'Additional Technologies + Skills',
         description:
           'Git ✧ Github Docker ✧ Slack ✧ Object-Oriented Programming ✧ Figma Wireframes ✧ Balsamic ✧ Heroku ✧ Netlify',
