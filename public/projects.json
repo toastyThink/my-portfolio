@@ -4,15 +4,17 @@
       "live": "https://developing-feelings-d5735203c312.herokuapp.com/",
       "git": "http://www.github.com/username/reponame",
       "image": "https://i.imgur.com/htxsZPH.jpg",
-      "id": 0
+      "description": "A website perfect for those looking to make friends, or build connections!",
+      "id": 1
 
     },
     {
-      "name": "Virtual Slot Machine",
-      "live": "https://toastythink.github.io/Virtual-Slot-Machine/",
-      "git": "https://github.com/toastyThink/Virtual-Slot-Machine",
-      "image": "https://i.imgur.com/Mv6xcvq.png",
-      "id": 1
+      "name": "Dog Park Findr",
+      "live": "https://main--singular-lily-7ff08c.netlify.app/",
+      "git": "https://github.com/toastyThink/dog_park_finder",
+      "image": "https://i.imgur.com/r2Ew1H8.png",
+      "description": "A site for finding the closest dog parks within a given latitude or longitude",
+      "id": 23
     }
   ]
   
