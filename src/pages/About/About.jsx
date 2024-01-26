@@ -58,16 +58,36 @@ return (
         creativity and enhance my problem-solving abilities. Now, as a Fullstack Developer, I seamlessly 
         integrate my diverse skill set to create user-centric and visually appealing applications.
         </p>
+        &nbsp;
+        &nbsp;
+        <p className="text-justify mt-6 text-lg leading-8 text-gray-300">
+          Let's stay connected! Follow me on the social media links for real-time updates on my tech endeavors, behind-the-scenes insights, and a front-row seat to the evolving world of technology.
+        </p>
+
       </div>
-      {/* <div className="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
+      <div className="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
         <div className="grid grid-cols-1 gap-x-8 gap-y-6 text-base font-semibold leading-7 text-white sm:grid-cols-2 md:flex lg:gap-x-10">
-          {links.map((link) => (
+        <div className="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
+        <div className="flex flex-row justify-center	">
+          <a href="https://github.com/toastyThink">
+              <img className="w-20 m-5" src="/github-mark-white.svg" alt="This is the logo for Github" />
+          </a>
+
+          <a href="https://www.linkedin.com/in/brendanshaeffer/" className="w-50">
+              <img className="w-20 m-5" src="/In-White-128-┬«@2x.png" alt="This is the linkedin logo" />
+          </a>
+          
+        </div>
+      </div>
+
+          
+          {/* {links.map((link) => (
             <a key={link.name} href={link.href}>
               {link.name} <span aria-hidden="true">&rarr;</span>
             </a>
-          ))}
+          ))} */}
         </div>
-        <dl className="mt-16 grid grid-cols-1 gap-8 sm:mt-20 sm:grid-cols-2 lg:grid-cols-4">
+        {/* <dl className="mt-16 grid grid-cols-1 gap-8 sm:mt-20 sm:grid-cols-2 lg:grid-cols-4">
           {stats.map((stat) => (
             <div key={stat.name} className="flex flex-col-reverse">
               <dt className="text-base leading-7 text-gray-300">{stat.name}</dt>
@@ -77,7 +97,7 @@ return (
         </dl> */}
       </div>
     </div>
-//   </div>
+   </div>
         
     )
   })
