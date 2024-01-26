@@ -166,7 +166,6 @@ const Contact = forwardRef( function Contact(props, ref){
                     </div>
                 </form>
                 </div>
-
             </>
         )
     }
